@@ -17,3 +17,5 @@ buildNumber.properties
 .classpath
 /.idea
 /HELP.md
+### secret properties ###
+/src/main/resources/secret.properties
